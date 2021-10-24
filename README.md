@@ -1,5 +1,4 @@
 # E2T-Email_to_Telegram
-# E2T-Email_to_Telegram
 # About The Project 'E2T'
 > E2T is short for Email to Telegram. The main theme of this project is giving alerts of your emails in telegram. The key player in this project is API. We have used the 
 > 'EasyIMAP' API for fetching unread emails from your inbox. This API can fetch the mails from the inboxes of any email service provider. To send these emails as alerts to
